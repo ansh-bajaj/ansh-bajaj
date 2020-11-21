@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey Folks! 👋
 
 <!--
 **ansh-bajaj/ansh-bajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Header](https://raw.githubusercontent.com/ansh-bajaj/<OWNER>/<OWNER>/readme_header.png "Header")](http://www.anshbajaj.live/)
